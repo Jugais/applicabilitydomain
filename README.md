@@ -6,4 +6,4 @@ kNN, LOF, OneClassSVM, and ensemble consensus for outlier detection.
 ## Installation
 
 ```bash
-pip install .
+pip install appdomain
